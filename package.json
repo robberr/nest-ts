@@ -1,8 +1,7 @@
 {
   "name": "nest-ts",
-  "version": "0.0.0",
-  "description": "nest-ts",
-  "main": "server.js",
+  "version": "1.0.0",
+  "description": "nest-ts",  
   "author": {
     "name": "robberr"
   },
